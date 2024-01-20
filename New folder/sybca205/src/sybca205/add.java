@@ -7,7 +7,7 @@ public class add {
 
 	int num1,num2;
 	num1=20;
-	num2=30;
+	num2=20;
 	int sum=num1+num2;
 	System.out.println(""+sum);
 		
