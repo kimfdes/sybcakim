@@ -11,11 +11,20 @@ public class add {
 	int sum=num1+num2;
 	System.out.println(""+sum);
 		
-		
-		
-		
+			
+	}
+
+	void Subtract()
+	{
+		int num1=20;
+		int num2=40;
+		int sub=num1-num2;
+		System.out.println(" "+sub);
 		
 		
 	}
-
+	
+	
+	
+	
 }
